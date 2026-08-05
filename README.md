@@ -207,7 +207,6 @@ AI & Machine Learning Engineer
 - **Portfolio:** https://amgadnazar.github.io
 - **LinkedIn:** https://linkedin.com/in/amjad-nazar
 - **GitHub:** https://github.com/amgadnazar
-- **X:** https://x.com/amgad_nazar
 
 ---
 
