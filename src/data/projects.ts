@@ -207,7 +207,7 @@ export const projects: Project[] = [
 
   ],
 
-  github: "https://github.com/amgadnazar/amjad-portfolio",
+  github: "https://github.com/amgadnazar/amgadnazar.github.io",
 
   demo: "https://amgadnazar.github.io/",
 },
